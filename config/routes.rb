@@ -3,6 +3,6 @@ Rails.application.routes.draw do
 
   # Defines the root path route ("/")
   root "questions#ask"
-  get '/answer', to: 'answer#answer'
   get '/ask', to: 'questions#ask'
+  get '/answer', to: 'answer#answer'
 end
