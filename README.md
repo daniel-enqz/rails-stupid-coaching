@@ -2,7 +2,6 @@
 
 ## Main APP Features
 - If a guy says seomthing random to the Coach, he will just not care
-![dashboard](https://user-images.githubusercontent.com/72522628/158202974-d2d8c39f-290f-4258-9ef8-6bc4539cdeeb.png)
 ![image](https://user-images.githubusercontent.com/72522628/158728701-4b3513c9-0f00-4d18-8e40-6c131f8d4e93.png)
 
 - If a guy asks seomthing random to the Coach, he will love his attitude
