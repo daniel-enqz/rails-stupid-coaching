@@ -1,8 +1,4 @@
-# AIRBNB CLONE USING RUBY ON RAILS
-### CHECK DEPLOYED <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"> APP [HERE](https://studiofy-now.herokuapp.com/)
-
-<img src="https://user-images.githubusercontent.com/72522628/158201654-5393ee70-9e3c-4bca-b81e-a5815ec490f7.png" alt="homepage" style="box-shadow: 10px 10px 5px #ccc"/>
-<img src="https://user-images.githubusercontent.com/72522628/158202967-3f0ce9b9-e2fd-49d0-8a44-2e311f0e23da.png" alt="studios" style="box-shadow: 10px 10px 5px #ccc"/>
+# A rails app to do some tests 
 
 ## Main APP Features
 - A user can create/edit/delete a studio
